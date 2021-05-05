@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "784065436802",
+    "project_id": "abutalib-clinic-169ee",
+    "storage_bucket": "abutalib-clinic-169ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784065436802:android:373c18df9a357c31e2289b",
+        "android_client_info": {
+          "package_name": "com.alihaidar.first.abutalib_clinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784065436802-h1tv9bneabb5euvkvla7ll5otjmta85i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alihaidar.first.abutalib_clinic",
+            "certificate_hash": "2d1fc1f4c03df85a7d5f2008928c5b5e774cac8f"
+          }
+        },
+        {
+          "client_id": "784065436802-djqvi0dtjn6ar5ktvmcnb2mdpmcffhkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvj5xP6D7zD48DqMV3OQofs5mpj2SU_CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784065436802-djqvi0dtjn6ar5ktvmcnb2mdpmcffhkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
